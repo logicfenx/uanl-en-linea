@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/uanl-en-linea",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a uanl-en-linea",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/uanl-en-linea.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://inuchat.net/es/uanl-en-linea/"
+    },
+    "homepage": "https://inuchat.net/es/uanl-en-linea/"
+}
